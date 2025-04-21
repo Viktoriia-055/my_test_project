@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;  
+    color: inherit;        
+}
+
+ td:hover {
+    color: red; 
+	text-decoration: underline; 
+	background-color: lightblue; 
+    transition: background-color 0.3s ease; 
+}
