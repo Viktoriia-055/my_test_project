@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 a {
     text-decoration: none;  
     color: inherit;        
@@ -8,17 +7,4 @@ a {
     color: red; 
 	text-decoration: underline; 
 	background-color: lightblue; 
-    transition: background-color 0.3s ease; 
-=======
-a {
-    text-decoration: none;  
-    color: inherit;        
-}
-
- td:hover {
-    color: red; 
-	text-decoration: underline; 
-	background-color: lightblue; 
-    transition: background-color 0.3s ease; 
->>>>>>> d0d4dee578b209d33dba9b6890e0e93e73bc93e5
-}
+    transition: background-color 0.3s ease;
